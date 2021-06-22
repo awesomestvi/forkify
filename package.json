@@ -1,0 +1,23 @@
+{
+  "name": "forkify",
+  "version": "1.0.0",
+  "description": "Food Receipies",
+  "main": "index.html",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/awesomestvi/forkify.git"
+  },
+  "author": "Vishal Chauhan",
+  "bugs": {
+    "url": "https://github.com/awesomestvi/forkify/issues"
+  },
+  "homepage": "https://github.com/awesomestvi/forkify#readme",
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.0.0-beta.2",
+    "parcel": "^2.0.0-beta.2"
+  }
+}
